@@ -18,4 +18,6 @@ USE 'SelectorGadget' to get the specific CSS limitations of what you want.
 2. as.numeric()
 To tranform all numbers into real values from characters.
 
+Some results of analysis are attached to the file. You can download and check.
+
 This is a personnal project. If there are any problems, feel free to modify and give suggestions. 
